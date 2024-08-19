@@ -6,14 +6,11 @@
 - Overview of software development life cycle (SDLC)
 - Software design process and methodologies
 
-## Activities
-- Discussion on the design problem: Kopala Programmers School
-- Identify the overall system requirements and objectives
-
 ## Assignments
-- Write a brief report on the importance of software design.
-- Create an overview of the software development life cycle for the design problem.
+- What is Software Design?
+- How does the Software Development Life Cycle (SDLC) relate to the HealthCare.gov website (Obamacare)?
+- What software development methodologies could have been used to tackle the issues faced by HealthCare.gov, and how would they have helped?
 
 ## Resources
 - [Course Outline](../Course-Outline.md)
-- [Design Problem Statement](../Design-Problem.md)
+- [Assignment 1 Grades](../Week-01/assignment/Aanalysis.md)
