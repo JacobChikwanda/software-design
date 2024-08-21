@@ -1,7 +1,7 @@
 # Assignment 2: Diagnosing and Improving a Student Management System
 
 ## Overview
-In this assignment, you are tasked with analyzing and improving a simple Student Management System written in Python. The current system has several issues that violate key software design principles. Your job is to identify these issues, explain how they break the principles covered in Unit 2, and then refactor the code to align with best practices.
+In this assignment, you are tasked with analyzing and improving a simple Student Management System written in Python. The current system has several issues that violate key software design principles. Your job is to identify these issues, explain how they break the principles covered in Unit 2, and then refactor the code to align with best practices. Additionally, you'll be expected to enhance the user interaction by implementing a simple menu system that allows users to choose options like viewing student records, updating information, and more.
 
 ### Unit 2: Software Design Principles
 - SOLID principles
@@ -14,7 +14,7 @@ In this assignment, you are tasked with analyzing and improving a simple Student
 
 
 ## Scenario
-You’ve been brought in as a consultant to review the Student Management System for a small educational institution written in Python. The current system has several issues that violate key software design principles. Your job is to identify these issues, explain how they break the principles covered in Unit 2, and then refactor the code to align with best practices. Additionally, you'll be expected to enhance the user interaction by implementing a simple menu system that allows users to choose options like viewing student records, updating information, and more
+You’ve been brought in as a consultant to review the Student Management System for a small educational institution. The system was developed quickly to meet immediate needs, but over time, several issues have emerged:
 
 ### User Feedback
 - **Administrator Feedback:** "The system is functional, but whenever we request new features or changes, it takes a long time to implement. We've had to wait weeks for even simple updates."
@@ -22,7 +22,7 @@ You’ve been brought in as a consultant to review the Student Management System
 - **New Developer Feedback:** "The code is hard to understand and lacks clear documentation. It’s challenging to figure out where to start when making changes."
 
 ## The Code
-Below is the simplified version of the existing codebase. Your task is to analyze it and identify where it violates the software design principles from Unit 2. After your analysis, you will refactor the code to improve its design.
+Below is the simplified version of the existing codebase. Your task is to analyze it and identify where it violates the software design principles from Unit 2. After your analysis, you will refactor the code to improve its design. You are also expected to enhance the system by adding a simple menu that allows users to interact with the system more effectively.
 
 ### student_management_system.py
 
