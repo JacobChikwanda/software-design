@@ -11,17 +11,16 @@ Welcome to the Software Design Course repository. This course covers the princip
 ## Weekly Breakdown
 - [Week 01: Introduction to Software Design](Week-01/README.md)
 - [Week 02: Software Design Principles](Week-02/README.md)
-- [Week 03: Design Patterns I](Week-03/README.md)
-- [Week 04: Design Patterns II](Week-04/README.md)
-- [Week 05: Software Architecture I](Week-05/README.md)
-- [Week 06: UML and Modeling Languages](Week-06/README.md)
-- [Week 07: Advanced UML Techniques](Week-07/README.md)
-- [Week 08: Component and Interface Design](Week-08/README.md)
-- [Week 09: Data Design](Week-09/README.md)
-- [Week 10: Design Evaluation and Improvement](Week-10/README.md)
-- [Week 11: Software Design Tools](Week-11/README.md)
-- [Week 12: Design for Scalability and Performance](Week-12/README.md)
-- [Week 13: Design for Security](Week-13/README.md)
+- [Week 03: Design Patterns](Week-03/README.md)
+- [Week 05: Software Architecture](Week-04/README.md)
+- [Week 06: UML and Modeling Languages](Week-05/README.md)
+- [Week 07: Advanced UML Techniques](Week-06/README.md)
+- [Week 08: Component and Interface Design](Week-07/README.md)
+- [Week 09: Data Design](Week-08/README.md)
+- [Week 10: Design Evaluation and Improvement](Week-09/README.md)
+- [Week 11: Software Design Tools](Week-10/README.md)
+- [Week 12: Design for Scalability and Performance](Week-11/README.md)
+- [Week 13: Design for Security](Week-12/README.md)
 
 Each week includes lesson materials, activities, and assignments to help reinforce the topics covered.
 

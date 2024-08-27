@@ -34,13 +34,13 @@ This course covers the principles and practices of software design, including de
 - KISS (Keep It Simple Stupid)
 - YAGNI (You Ain't Gonna Need It)
 
-### UNIT 3: Design Patterns I
+### UNIT 3: Design Patterns
 - Introduction to design patterns
 - Creational patterns: Singleton, Factory, Builder
 - Structural patterns: Adapter, Composite, Proxy
 - Behavioral patterns: Strategy, Observer, Command
 
-### UNIT 4: Software Architecture I
+### UNIT 4: Software Architecture
 - Introduction to software architecture
 - Architectural styles: Layered, Client-Server, Microservices
 - Design and implementation of software architectures
