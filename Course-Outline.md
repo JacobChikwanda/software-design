@@ -94,5 +94,4 @@ This course covers the principles and practices of software design, including de
 - ["UML Distilled: A Brief Guide to the Standard Object Modeling Language" by Martin Fowler](resources/uml-distilled.pdf)
 
 ## Additional Resources
-- Online tutorials and documentation
-- Research papers and case studies
+- [Software Design Patterns](https://refactoring.guru/design-patterns)
