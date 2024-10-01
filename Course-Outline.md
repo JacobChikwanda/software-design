@@ -64,7 +64,7 @@ This course explores software design principles, practices, and modeling languag
 ### UNIT 10: Design for Scalability, Performance, and Security
 - Techniques for scalable software design
 - Performance optimization
-- Secure software design principles and common vulnerabilities
+- Secure software design principles and common vulnerabilities.
 
 ## Assessment Methods
 - Assignments (10%)
