@@ -11,76 +11,60 @@ BSE 2210
 - Data Structures and Algorithms
 
 ## Course Description
-This course covers the principles and practices of software design, including design patterns, software architecture, and the use of modeling languages. Students will learn to design software systems that are efficient, maintainable, and scalable.
+This course explores software design principles, practices, and modeling languages. Students will learn to create efficient, maintainable, and scalable software systems using design patterns, software architecture concepts, and UML.
 
 ## Course Objectives
-- Understand the fundamental concepts of software design.
-- Apply design patterns to solve common software design problems.
-- Develop software architectures that meet specified requirements.
-- Use UML and other modeling languages to design software systems.
-- Evaluate and improve the design of existing software systems.
+- Grasp fundamental software design concepts.
+- Apply design patterns to common design challenges.
+- Develop software architectures that fulfill specified requirements.
+- Utilize UML (Use Case, Class, and Sequence Diagrams) to design software systems.
+- Evaluate and enhance existing software designs.
 
 ## Units
 
 ### UNIT 1: Introduction to Software Design
 - Course overview and objectives
-- Importance of software design
-- Overview of software development life cycle (SDLC)
-- Software design process and methodologies
+- Importance of software design in the SDLC
+- Overview of design processes and methodologies
 
 ### UNIT 2: Software Design Principles
 - SOLID principles
 - DRY (Don't Repeat Yourself)
-- KISS (Keep It Simple Stupid)
+- KISS (Keep It Simple)
 - YAGNI (You Ain't Gonna Need It)
 
 ### UNIT 3: Design Patterns
-- Introduction to design patterns
-- Creational patterns: Singleton, Factory, Builder
-- Structural patterns: Adapter, Composite, Proxy
-- Behavioral patterns: Strategy, Observer, Command
+- Overview of design patterns
+- Creational, Structural, and Behavioral patterns
 
 ### UNIT 4: Software Architecture
 - Introduction to software architecture
-- Architectural styles: Layered, Client-Server, Microservices
-- Design and implementation of software architectures
-- Case studies of real-world architectures
+- Architectural styles (Monolithic, Client-Server, Microservices)
 
 ### UNIT 5: UML and Modeling Languages
-- Introduction to UML (Unified Modeling Language)
-- Use case diagrams, class diagrams, sequence diagrams
+- Introduction to UML
+- Focus on Use Case, Class, and Sequence Diagrams
 
-### UNIT 6: Advanced UML Techniques
-- Class diagrams
-- Object diagrams
-- State diagrams, activity diagrams, component diagrams
-
-### UNIT 7: Component and Interface Design
+### UNIT 6: Component and Interface Design
 - Designing components and interfaces
-- Component diagrams
 - Interface design principles
 
-### UNIT 8: Data Design
-- Database design principles
-- Entity-relationship diagrams (ERD)
-- Data modeling and normalization
+### UNIT 7: Data Design
+- Database design principles and normalization
+- Entity-Relationship Diagrams (ERD)
 
-### UNIT 9: Design Evaluation and Improvement
-- Code reviews
-- Refactoring techniques
+### UNIT 8: Design Evaluation and Improvement
+- Techniques for code reviews and refactoring
 - Measuring design quality
 
-### UNIT 10: Software Design Tools
+### UNIT 9: Software Design Tools
 - Overview of design tools and IDEs
-- Hands-on session with tools like Enterprise Architect, Visual Paradigm
+- Hands-on sessions with tools like Enterprise Architect and Visual Paradigm
 
-### UNIT 11: Design for Scalability and Performance
+### UNIT 10: Design for Scalability, Performance, and Security
 - Techniques for scalable software design
 - Performance optimization
-
-### UNIT 12: Design for Security
-- Secure software design principles
-- Common security vulnerabilities and mitigation strategies
+- Secure software design principles and common vulnerabilities
 
 ## Assessment Methods
 - Assignments (10%)
@@ -89,9 +73,11 @@ This course covers the principles and practices of software design, including de
 - Final Exam (60%)
 
 ## Recommended Textbooks
-- ["Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides](resources/design-patterns.pdf)
-- ["Software Architecture in Practice" by Len Bass, Paul Clements, and Rick Kazman](resources/software-architecture-in-practice.pdf)
+- ["Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma et al.](resources/design-patterns.pdf)
+- ["Software Architecture in Practice" by Len Bass et al.](resources/software-architecture-in-practice.pdf)
 - ["UML Distilled: A Brief Guide to the Standard Object Modeling Language" by Martin Fowler](resources/uml-distilled.pdf)
 
 ## Additional Resources
 - [Software Design Patterns](https://refactoring.guru/design-patterns)
+- [12 Software Architecture Styles](https://medium.com/@xsronhou/12-software-architecture-styles-software-engineer-should-know-ee92e3b1f9ac)
+- [Unified Modeling Language](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/)
