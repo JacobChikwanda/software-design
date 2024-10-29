@@ -1,32 +1,70 @@
 # Software Design Course (BSE 2210)
 
-Welcome to the Software Design Course repository. This course covers the principles and practices of software design, including design patterns, software architecture, and modeling languages.
+## Course Title
+Software Design
 
-## Course Outline
-- [Course Outline](Course-Outline.md)
+## Course Code
+BSE 2210
 
-## Design Problem
-- [Design Problem Statement](Design-Problem.md)
+## Prerequisites
+- Introduction to Programming
+- Data Structures and Algorithms
 
-## Weekly Breakdown
-- [Week 01: Introduction to Software Design](Week-01/README.md)
-- [Week 02: Software Design Principles](Week-02/README.md)
-- [Week 03: Design Patterns](Week-03/README.md)
-- [Week 05: Software Architecture](Week-04/README.md)
-- [Week 06: UML and Modeling Languages](Week-05/README.md)
-- [Week 07: Advanced UML Techniques](Week-06/README.md)
-- [Week 08: Component and Interface Design](Week-07/README.md)
-- [Week 09: Data Design](Week-08/README.md)
-- [Week 10: Design Evaluation and Improvement](Week-09/README.md)
-- [Week 11: Software Design Tools](Week-10/README.md)
-- [Week 12: Design for Scalability and Performance](Week-11/README.md)
-- [Week 13: Design for Security](Week-12/README.md)
+## Course Description
+This course explores software design principles, practices, and modeling languages. Students will learn to create efficient, maintainable, and scalable software systems using design patterns, software architecture concepts, and UML.
 
-Each week includes lesson materials, activities, and assignments to help reinforce the topics covered.
+## Course Objectives
+- Grasp fundamental software design concepts.
+- Apply design patterns to common design challenges.
+- Develop software architectures that fulfill specified requirements.
+- Utilize UML (Use Case, Class, and Sequence Diagrams) to design software systems.
+- Evaluate and enhance existing software designs.
 
-## How to Use This Repository
-1. Navigate to the appropriate week folder to find the lesson materials and assignments.
-2. Refer to the README.md file in each week folder for details on the topics covered, activities, and assignments.
-3. Use the resources provided in each README.md to assist with your studies and assignments.
+## Units
 
-Happy learning!
+### UNIT 1: Introduction to Software Design
+- Course overview and objectives
+- Importance of software design in the SDLC
+- Overview of design processes and methodologies
+
+### UNIT 2: Software Design Principles
+- SOLID principles
+- DRY (Don't Repeat Yourself)
+- KISS (Keep It Simple)
+- YAGNI (You Ain't Gonna Need It)
+
+### UNIT 3: Design Patterns
+- Overview of design patterns
+- Creational, Structural, and Behavioral patterns
+
+### UNIT 4: Software Architecture
+- Introduction to software architecture
+- Architectural styles (Monolithic, Client-Server, Microservices)
+
+### UNIT 5: UML and Modeling Languages
+- Introduction to UML
+- Focus on Use Case, Class, and Sequence Diagrams
+
+### UNIT 6: Component and Interface Design
+- Designing components and interfaces
+- Interface design principles
+
+### UNIT 7: Design Evaluation and Improvement
+- Techniques for code reviews and refactoring
+- Measuring design quality
+
+## Assessment Methods
+- Test 1 (13.3%)
+- Test 2 (13.3%)
+- Test 3 (13.3%)
+- Final Exam (60%)
+
+## Recommended Textbooks
+- ["Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma et al.](resources/design-patterns.pdf)
+- ["Software Architecture in Practice" by Len Bass et al.](resources/software-architecture-in-practice.pdf)
+- ["UML Distilled: A Brief Guide to the Standard Object Modeling Language" by Martin Fowler](resources/uml-distilled.pdf)
+
+## Additional Resources
+- [Software Design Patterns](https://refactoring.guru/design-patterns)
+- [12 Software Architecture Styles](https://medium.com/@xsronhou/12-software-architecture-styles-software-engineer-should-know-ee92e3b1f9ac)
+- [Unified Modeling Language](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/)
